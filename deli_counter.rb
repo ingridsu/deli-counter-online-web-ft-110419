@@ -7,7 +7,7 @@ katz_deli=[]
    array.each_with_index do|name, index| 
    response += #{index+1}. #{name}
   end
-puts response 
-end
-end
+  puts response 
+  end
+ end
 
